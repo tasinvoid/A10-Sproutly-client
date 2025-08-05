@@ -1,6 +1,6 @@
 # Sproutly 🌱
 
-[Live Site]([https://your-live-site-url.com](https://sproutly-515fc.web.app/))
+https://sproutly-515fc.web.app/
 
 ## Project Description
 
